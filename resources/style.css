@@ -40,3 +40,11 @@ a {
   color: white;
   font-size: 18px;
 }
+
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+  font-weight: normal;
+}
